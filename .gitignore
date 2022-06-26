@@ -32,4 +32,7 @@ OOP21-MAP.iml
 /classes/
 
 # PlantUML
-/out/plantuml/
+/out/plantuml/.gradle/
+build
+
+.gradle/
